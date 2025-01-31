@@ -7,8 +7,6 @@ The **Multi-PDF Chat AI Agent** is a **Streamlit-based** web application designe
 
 ## 📢 Demo App with Streamlit Cloud (Preview Only)
 
-[🚀 Launch App on Streamlit](https://multi-pdfschatappai-agent.streamlit.app/)
-
 ## 💻 Demo:
 ![Chatbot Demo](img/LLMframework.jpg)
 
